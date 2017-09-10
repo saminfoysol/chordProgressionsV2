@@ -1,0 +1,6 @@
+chord progressions to do list
+-fonts for backgrounds
+-functionality for chord predictions
+-make it appear on the second page if you can
+-edit the forms to make them more usable
+-make a fret board
